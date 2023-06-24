@@ -56,9 +56,9 @@ Este comando irá realizar as configurações necessárias para que o ambiente e
 docker compose up
 ```
 
-Este comando permite que possamos trabalhar em nossa solução de forma totalmente integrada através do link: http://localhost:3000. 
+Este comando permite que possamos trabalhar em nossa solução de forma totalmente integrada através do link: http://localhost:3000/projects. 
 
-*Observação:* você pode encontrar um modelo CSV para ser utilizado em [modelo]().
+*Observação:* você pode encontrar um modelo CSV para ser utilizado em [modelo](./MODELO_CSV.csv).
 
 # Licença
 
