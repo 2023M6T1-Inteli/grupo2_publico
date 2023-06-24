@@ -58,6 +58,8 @@ docker compose up
 
 Este comando permite que possamos trabalhar em nossa solução de forma totalmente integrada através do link: http://localhost:3000. 
 
+*Observação:* você pode encontrar um modelo CSV para ser utilizado em [modelo]().
+
 # Licença
 
 Este projeto utiliza a [licença Apache 2.0](LICENSE).
